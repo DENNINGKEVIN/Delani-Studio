@@ -11,5 +11,17 @@ $(document).ready(function () {
     $("#hide3").toggle();
     $("#show3").toggle();
   });
+  $("#hide1").click(function () {
+    $("#show1").toggle();
+    $("#hide1").toggle();
+  });
+  $("#hide2").click(function () {
+    $("#show2").toggle();
+    $("#hide2").toggle();
+  });
+  $("#hide3").click(function () {
+    $("#show3").toggle();
+    $("#hide3").toggle();
+  });
   
 })
