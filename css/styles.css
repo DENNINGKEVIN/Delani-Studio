@@ -31,3 +31,6 @@ padding: 1%;
 h3{
 padding: 2%;
 }
+#hide1{
+  display: none;
+}
