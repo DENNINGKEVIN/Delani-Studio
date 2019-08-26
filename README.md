@@ -5,7 +5,7 @@
 
 ## Versioning
 
- Delani-Studio-V1.0 
+ Delani-Studio-V1.0
 
 ## Author
 
@@ -16,7 +16,7 @@
 
 As a user of the website you will be able to:
 
-1. View Delani-Studio services offered. 
+1. View Delani-Studio services offered.
 2. Enter their name.
 3. Enter their email.
 4. Select their message/feedback.
@@ -31,7 +31,7 @@ As a user of the website you will be able to:
 
 ### Installing
 
-*** To view the app.Visit -> https://denningkevin.github.io/Delani-Studio/index.html[Delani-Studio]()
+*** To view the app.Visit -> hhttps://denningkevin.github.io/Delani-Studio/
 * Step 1:
 Clone this repo: git clone https://github.com/DENNINGKEVIN/Delani-Studio.git
 * Step 2:
@@ -40,8 +40,8 @@ The repo comes in a zipped or compressed format. Extract to your prefered locati
 open your terminal and navigate to Delani-Studio.
 * Step 4:
 To run the website, you'll have to open the index.thml file with a browser of your choice.
-    
-    
+
+
 ## Built With
 
 * Javascript - For form validation and logic

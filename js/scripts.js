@@ -2,17 +2,16 @@ $(document).ready(function () {
   $("#button").click(function (event) {
     var name = $("input#name").val();
     var email = $("input#email1").val();
-    var message = $("input#message").val();
-    if ($("input#name").val() && $("input#email1").val() && $("input#message").val() != "") {
+    var message = $("textarea#message").val();
+    if ($("input#name").val() && $("input#email1").val() && $("textarea#message").val() != "") {
       alert(name + " we have received your message.Thank you for reaching out to us.");
     } else {
       alert("Missing Details")
     }
-
-
     preventDefault(event);
   });
 
+  //toggle effect
   $("#show1").click(function () {
     $("#hide1").toggle();
     $("#show1").toggle();
@@ -63,37 +62,6 @@ $(document).ready(function () {
   $("#hover8").hover(function () {
     $("#imgtext8").toggle()
   })
-  // $("#form").click(function () {
-  //   var name1 = ("#name").val;
-  //   var email1 = ("email").val;
-  //   var message1 = ("#message").val;
-  //   input.addEventListener("keyup", function (event) {
-  //     if (event.keyCode === 13) {
-  //       event.preventDefault();
-  //       document.getElementById("button").click();
-  //     }
-  //     alert("+ name1 + we have received your message.Thank you for reaching out to us.")
-  //   });
-  // })
-  $(".hover").hovereffect(function () {
-
-  });
-
-
-
-  // $("#button").click(function (event) {
-  //   var name = $("input#name").val();
-  //   var email = $("input#email1").val();
-  //   var message = $("input#message").val();
-  //   if ($("input#name").val() && $("input#email1").val() && $("input#message").val() != "") {
-  //     alert(name + " we have received your message.Thank you for reaching out to us.");
-  //   } else {
-  //     alert("Missing Details")
-  //   }
-
-
-  //   preventDefault(event);
-  // });
 });
 
 
