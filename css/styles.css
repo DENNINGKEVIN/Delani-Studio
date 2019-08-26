@@ -8,6 +8,11 @@ background-attachment: fixed;
 background-repeat: no-repeat;
 background-size: cover;
 }
+#top1{
+background-image: url(../assets/backgrounds/c_image.jpg) ;
+background-size: cover;
+color: aliceblue;  
+}
 #top2{
 background-image: url(../assets/backgrounds/s_image.jpg); 
 background-size: cover;  
