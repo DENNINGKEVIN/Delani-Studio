@@ -75,3 +75,6 @@ input[type="email"]::-webkit-input-placeholder {
 input[type="text"]::-webkit-input-placeholder {
   color:white !important;
 }
+textarea::-webkit-input-placeholder {
+  color:white !important;
+}
