@@ -78,3 +78,12 @@ input[type="text"]::-webkit-input-placeholder {
 textarea::-webkit-input-placeholder {
   color:white !important;
 }
+#mouse{
+  padding: 2%;
+  }
+  #icon{
+  padding: 2%;
+  }
+  h6{
+    padding: 2%;
+  }
