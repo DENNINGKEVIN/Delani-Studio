@@ -31,9 +31,9 @@ As a user of the website you will be able to:
 
 ### Installing
 
-*** To view the app.Visit -> https://denningkevin.github.io/Akan/index.html[Akan]()
+*** To view the app.Visit -> https://denningkevin.github.io/Delani-Studio/index.html[Delani-Studio]()
 * Step 1:
-Clone this repo: git clone https://github.com/denningkevin/Delani-Studio.git.
+Clone this repo: git clone https://github.com/DENNINGKEVIN/Delani-Studio.git
 * Step 2:
 The repo comes in a zipped or compressed format. Extract to your prefered location and open it.
 * Step 3:
