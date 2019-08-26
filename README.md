@@ -31,7 +31,7 @@ As a user of the website you will be able to:
 
 ### Installing
 
-*** To view the app.Visit -> hhttps://denningkevin.github.io/Delani-Studio/
+*** To view the app.Visit -> https://denningkevin.github.io/Delani-Studio/
 * Step 1:
 Clone this repo: git clone https://github.com/DENNINGKEVIN/Delani-Studio.git
 * Step 2:
