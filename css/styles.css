@@ -76,14 +76,14 @@ input[type="text"]::-webkit-input-placeholder {
   color:white !important;
 }
 textarea::-webkit-input-placeholder {
-  color:white !important;
+color:white !important;
 }
 #mouse{
-  padding: 2%;
-  }
-  #icon{
-  padding: 2%;
-  }
-  h6{
-    padding: 2%;
-  }
+padding: 2%;
+}
+#icon{
+padding: 2%;
+}
+h6{
+padding: 2%;
+}
