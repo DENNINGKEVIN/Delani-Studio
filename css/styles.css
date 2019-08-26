@@ -230,3 +230,10 @@ transform: translateY(-50%) translateX(-50%);
   position: relative;
   overflow: hidden;
 }
+.imgtext{
+  display: none;
+  opacity: 1;
+  color: aliceblue;
+  font: 700;  
+  font-family: 'Courier New', Courier, monospace;  
+}
