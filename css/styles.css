@@ -69,3 +69,6 @@ padding: 2%;
   border-color: white;
   color: whitesmoke;  
 }
+input[type="email"]::-webkit-input-placeholder {
+  color: white !important;
+}
