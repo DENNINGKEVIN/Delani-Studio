@@ -64,3 +64,8 @@ padding: 2%;
   border-color: white;
   color: whitesmoke;
 }
+#message {
+  background: transparent;
+  border-color: white;
+  color: whitesmoke;  
+}
