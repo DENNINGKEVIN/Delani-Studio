@@ -59,3 +59,8 @@ padding: 2%;
   border-color: white;
   color: whitesmoke;  
 }
+#email1[type="email"] {
+  background: transparent;
+  border-color: white;
+  color: whitesmoke;
+}
