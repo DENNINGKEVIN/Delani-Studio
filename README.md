@@ -1,4 +1,4 @@
-# Akan
+# Delani Studio
 
 
   Delani Studio is a website designed to advertise services offered by Delani.it also serves as a feedback platform where one can ask questions on whatever they wish about delani.
