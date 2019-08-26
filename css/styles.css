@@ -89,14 +89,15 @@ h6{
 }
 #imgtext1{
   position: absolute;
-  top: 0;
+  top: 0;  
   left: 100;
   width: 100%;
   height: 100%;
-  transition: 5s;
-  background: transparent; 
-  color:darkred;     
-  background: transparent;  
+  transition: 5s; 
+  color:darkred;  
+  background-color: rgba(255,255,255, 0.4); 
+  font-size: 20px;
+ 
 }
 #imgtext1 h5{
 position: absolute;
@@ -110,11 +111,11 @@ transform: translateY(-50%) translateX(-50%);
   left: 100;
   width: 100%;
   height: 100%;
-  transition: 5s;
-  background: transparent; 
-  color:darkred;      
-  background: transparent;  
-}
+  transition: 5s;  
+  color:darkred; 
+  background-color: rgba(255,255,255, 0.7); 
+} 
+
 #imgtext2 h5{
 position: absolute;
 top: 50%;
@@ -129,9 +130,9 @@ transform: translateY(-50%) translateX(-50%);
   width: 100%;
   height: 100%;
   transition: 5s;
-  background: transparent; 
+  background-color: rgba(255,255,255, 0.4); 
   color:darkred;     
-  background: transparent;  
+   
 }
 #imgtext3 h5{
 position: absolute;
@@ -146,10 +147,9 @@ transform: translateY(-50%) translateX(-50%);
   left: 100;
   width: 100%;
   height: 100%;
-  transition: 5s;
-  background: transparent; 
+  transition: 5s;   
   color:darkred;     
-  background: transparent;  
+  background-color: rgba(255,255,255, 0.4);  
 }
 #imgtext4 h5{
 position: absolute;
@@ -163,10 +163,9 @@ transform: translateY(-50%) translateX(-50%);
   left: 100;
   width: 100%;
   height: 100%;
-  transition: 5s;
-  background: transparent; 
+  transition: 5s; 
   color:darkred;      
-  background: transparent;  
+  background-color: rgba(255,255,255, 0.4);  
 }
 #imgtext5 h5{
 position: absolute;
@@ -181,9 +180,9 @@ transform: translateY(-50%) translateX(-50%);
   width: 100%;
   height: 100%;
   transition: 5s;
-  background: transparent; 
+  background-color: rgba(255,255,255, 0.4); 
   color:darkred;   
-  background: transparent;  
+   
 }
 #imgtext6 h5{
 position: absolute;
@@ -199,9 +198,9 @@ transform: translateY(-50%) translateX(-50%);
   width: 100%;
   height: 100%;
   transition: 5s;
-  background: transparent; 
+  background-color: rgba(255,255,255, 0.4);  
   color:darkred;     
-  background: transparent;  
+    
 }
 #imgtext7 h5{
 position: absolute;
@@ -216,7 +215,7 @@ transform: translateY(-50%) translateX(-50%);
   width: 100%;
   height: 100%;
   transition: 5s;
-  background: transparent; 
+  background-color: rgba(255,255,255, 0.4); 
   color:darkred;     
   
 }
@@ -237,7 +236,9 @@ transform: translateY(-50%) translateX(-50%);
   font: 700;  
   font-family: 'Courier New', Courier, monospace;  
 }
-#button{
+/* #button{
   display: none;
+} */
+.img-thumbnail{
+  border: none;
 }
-
