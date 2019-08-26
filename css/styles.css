@@ -18,41 +18,41 @@ background-image: url(../assets/backgrounds/s_image.jpg);
 background-size: cover;  
 }
 #move{
-padding: 100px;
+  padding: 100px;
 }
 #move{
-padding: 10%;
+  padding: 10%;
 }
 #serv{
-padding: 5%;
-color: aliceblue;
+  padding: 5%;
+  color: aliceblue;
 }
 #form{
-padding: 4%; 
+  padding: 4%; 
 }
 #bott{
-padding: 1%;
+  padding: 1%;
 }
 h3{
-padding: 2%;
+  padding: 2%;
 }
 #hide1{
-display: none;
+  display: none;
 }
 #hide2{
-display: none;
+  display: none;
 }
 #hide3{
-display: none;
+  display: none;
 }
 #row1{
-padding: 1%;
+  padding: 1%;
 }
 #row2{
-padding: 1%;
+  padding: 1%;
 }
 #container{
-padding: 2%;
+  padding: 2%;
 }
 #name[type="text"] {
   background: transparent;
@@ -73,10 +73,10 @@ input[type="email"]::-webkit-input-placeholder {
   color: white !important;
 }
 input[type="text"]::-webkit-input-placeholder {
-  color:white !important;
+    color:white !important;
 }
 textarea::-webkit-input-placeholder {
-color:white !important;
+    color:white !important;
 }
 #mouse{
 padding: 2%;
@@ -85,7 +85,7 @@ padding: 2%;
 padding: 2%;
 }
 h6{
-padding: 2%;
+  padding: 2%;
 }
 #imgtext1{
   position: absolute;
@@ -237,3 +237,7 @@ transform: translateY(-50%) translateX(-50%);
   font: 700;  
   font-family: 'Courier New', Courier, monospace;  
 }
+#button{
+  display: none;
+}
+
