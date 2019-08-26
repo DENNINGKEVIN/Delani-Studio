@@ -87,131 +87,146 @@ padding: 2%;
 h6{
 padding: 2%;
 }
+#imgtext1{
+  position: absolute;
+  top: 0;
+  left: 100;
+  width: 100%;
+  height: 100%;
+  transition: 5s;
+  background: transparent; 
+  color:darkred;     
+  background: transparent;  
+}
 #imgtext1 h5{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translateY(-50%) translateX(-50%);
+}
+#imgtext2{
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translateY(-50%) translateX(-50%);
-  }
-  #imgtext2{
-    position: absolute;
-    top: 0;
-    left: 100;
-    width: 100%;
-    height: 100%;
-    transition: 5s;
-    background: transparent; 
-    color:darkred;      
-    background: transparent;  
-  }
-  #imgtext2 h5{
+  top: 0;
+  left: 100;
+  width: 100%;
+  height: 100%;
+  transition: 5s;
+  background: transparent; 
+  color:darkred;      
+  background: transparent;  
+}
+#imgtext2 h5{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translateY(-50%) translateX(-50%);
+}
+
+#imgtext3{
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translateY(-50%) translateX(-50%);
-  }
+  top: 0;
+  left: 100;
+  width: 100%;
+  height: 100%;
+  transition: 5s;
+  background: transparent; 
+  color:darkred;     
+  background: transparent;  
+}
+#imgtext3 h5{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translateY(-50%) translateX(-50%);
+}
+
+#imgtext4{
+  position: absolute;
+  top: 0;
+  left: 100;
+  width: 100%;
+  height: 100%;
+  transition: 5s;
+  background: transparent; 
+  color:darkred;     
+  background: transparent;  
+}
+#imgtext4 h5{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translateY(-50%) translateX(-50%);
+}
+#imgtext5{
+  position: absolute;
+  top: 0;
+  left: 100;
+  width: 100%;
+  height: 100%;
+  transition: 5s;
+  background: transparent; 
+  color:darkred;      
+  background: transparent;  
+}
+#imgtext5 h5{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translateY(-50%) translateX(-50%);
+}
+#imgtext6{
+  position: absolute;
+  top: 0;
+  left: 100;
+  width: 100%;
+  height: 100%;
+  transition: 5s;
+  background: transparent; 
+  color:darkred;   
+  background: transparent;  
+}
+#imgtext6 h5{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translateY(-50%) translateX(-50%);
+}
+
+#imgtext7{
+  position: absolute;
+  top: 0;
+  left: 100;
+  width: 100%;
+  height: 100%;
+  transition: 5s;
+  background: transparent; 
+  color:darkred;     
+  background: transparent;  
+}
+#imgtext7 h5{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translateY(-50%) translateX(-50%);
+}
+#imgtext8{
+  position: absolute;
+  top: 0;
+  left: 100;
+  width: 100%;
+  height: 100%;
+  transition: 5s;
+  background: transparent; 
+  color:darkred;     
   
-  #imgtext3{
-    position: absolute;
-    top: 0;
-    left: 100;
-    width: 100%;
-    height: 100%;
-    transition: 5s;
-    background: transparent; 
-    color:darkred;     
-    background: transparent;  
-  }
-  #imgtext3 h5{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translateY(-50%) translateX(-50%);
-  }
-  
-  #imgtext4{
-    position: absolute;
-    top: 0;
-    left: 100;
-    width: 100%;
-    height: 100%;
-    transition: 5s;
-    background: transparent; 
-    color:darkred;     
-    background: transparent;  
-  }
-  #imgtext4 h5{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translateY(-50%) translateX(-50%);
-  }
-  #imgtext5{
-    position: absolute;
-    top: 0;
-    left: 100;
-    width: 100%;
-    height: 100%;
-    transition: 5s;
-    background: transparent; 
-    color:darkred;      
-    background: transparent;  
-  }
-  #imgtext5 h5{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translateY(-50%) translateX(-50%);
-  }
-  #imgtext6{
-    position: absolute;
-    top: 0;
-    left: 100;
-    width: 100%;
-    height: 100%;
-    transition: 5s;
-    background: transparent; 
-    color:darkred;   
-    background: transparent;  
-  }
-  #imgtext6 h5{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translateY(-50%) translateX(-50%);
-  }
-  
-  #imgtext7{
-    position: absolute;
-    top: 0;
-    left: 100;
-    width: 100%;
-    height: 100%;
-    transition: 5s;
-    background: transparent; 
-    color:darkred;     
-    background: transparent;  
-  }
-  #imgtext7 h5{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translateY(-50%) translateX(-50%);
-  }
-  #imgtext8{
-    position: absolute;
-    top: 0;
-    left: 100;
-    width: 100%;
-    height: 100%;
-    transition: 5s;
-    background: transparent; 
-    color:darkred;     
-    
-  }
-  #imgtext8 h5{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translateY(-50%) translateX(-50%);
-  }
+}
+#imgtext8 h5{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translateY(-50%) translateX(-50%);
+}
+.hover{
+  position: relative;
+  overflow: hidden;
+}
