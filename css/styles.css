@@ -72,3 +72,6 @@ padding: 2%;
 input[type="email"]::-webkit-input-placeholder {
   color: white !important;
 }
+input[type="text"]::-webkit-input-placeholder {
+  color:white !important;
+}
